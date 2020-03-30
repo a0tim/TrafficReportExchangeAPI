@@ -1,1 +1,3 @@
 # TrafficReportExchangeAPI
+
+各縣市交通違規民眾檢舉案件交換傳遞用API
